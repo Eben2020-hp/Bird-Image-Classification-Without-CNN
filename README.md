@@ -7,17 +7,17 @@ Every image has a different orientation of the bird which adds sufficient amount
 
 Number of records for each bird are as follows:
 
-| Type of bird | Number of records |
-| --- | --- |
-| Baltimore Oriole	(Class 0) | 138 |
-| Cockatoos (Class 1) | 166 |
-| Cotinga (Class 2)	| 124 |
-| Crow	(Class 3) | 107 |
-| Macaw (Class 4) | 105 |
-| Northern Cardinal (Class 5)	| 101 |
-| Parakeets	(Class 6) | 135 |
-| Parrot (Class 7) | 74 |
-| Toucans (Class 8)	| 136 |
+| Type of bird | Number of records | Images |
+| --- | --- | --- |
+| Baltimore Oriole	(Class 0) | 138 | <img src="https://user-images.githubusercontent.com/66016994/129786691-6d2c70f9-456c-46a1-bda7-52e87e363eeb.jpg" width="100" height="100" /> |
+| Cockatoos (Class 1) | 166 | <img src="https://user-images.githubusercontent.com/66016994/129787163-8042280d-aaa0-439a-98b5-bc4e76fa62a4.jpg" width="100" height="100" /> |
+| Cotinga (Class 2)	| 124 | <img src="https://user-images.githubusercontent.com/66016994/129787256-ed8fbf9d-e8e9-4fa8-9969-08196bb585b8.jpg" width="100" height="100" /> |
+| Crow	(Class 3) | 107 | <img src="https://user-images.githubusercontent.com/66016994/129787316-19f8dffc-f826-4153-887b-b147a3f7fc96.jpg" width="100" height="100" /> |
+| Macaw (Class 4) | 105 | <img src="https://user-images.githubusercontent.com/66016994/129787371-b9da8cc5-b9ab-4196-9e4f-5a08b3436d5b.jpg" width="100" height="100" /> |
+| Northern Cardinal (Class 5)	| 101 | <img src="https://user-images.githubusercontent.com/66016994/129787445-f5757c9d-3601-4fbf-a8bd-bdf30ac6e7c0.jpg" width="100" height="100" /> |
+| Parakeets	(Class 6) | 135 | <img src="https://user-images.githubusercontent.com/66016994/129787522-bd462c93-1989-4d10-828b-6dcbad809835.jpg" width="100" height="100" /> |
+| Parrot (Class 7) | 74 | <img src="https://user-images.githubusercontent.com/66016994/129787602-a61d0649-a809-45c7-9c3b-3de727d621af.jpg" width="100" height="100" /> |
+| Toucans (Class 8)	| 136 | <img src="https://user-images.githubusercontent.com/66016994/129787698-385c5526-9889-40c4-b5f2-e0bb55c40b5a.jpg" width="100" height="100" /> |
 
 
 ## Spatial based Feature Extraction
