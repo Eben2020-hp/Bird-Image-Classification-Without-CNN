@@ -83,4 +83,25 @@ Applying train test split to the data. ( 70% train and 30% test)
 
 ## Classification
 
-This is a multi-class classification problem with 9 classes.
+This is a multi-class classification problem with 9 classes. Supervised learning algorithm like Logistic Regression is used for classification. Performance metric is F1 Score. At the end results are compared.
+
+Logistic Regression was trained on the train data and evaluated on the test data. The parameters are as follows--> C = 100, class_weight = 'balanced', multi_class = 'ovr'.
+
+A simple classification report gives the following results
+| Class | F1 Score - Train | F1 Score - Test |
+| --- | --- | --- |
+| 0 | 0.57 | 0.51 |
+| 1 | 0.69 | 0.78 |
+| 2 | 0.61 | 0.70 |
+| 3 | 0.59 | 0.59 |
+| 4 | 0.48 | 0.32 |
+| 5 | 0.62 | 0.51 |
+| 6 | 0.66 | 0.73 |
+| 7 | 0.38 | 0.17 |
+| 8 | 0.58 | 0.72 |
+
+We can see that even though the model isn't performing that well, there is neither any Over-Fitting nor Under-Fitting.
+
+| Train Accuracy | Test Accuracy |
+| --- | --- |
+| 0.59 | 0.59 |
